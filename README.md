@@ -1,1 +1,1 @@
-# ALGO
+Questions solved in Algorithms
