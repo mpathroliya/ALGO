@@ -5,8 +5,8 @@ using namespace std;
 int main() {
     // std::cout << "Hello World!\n";
     long long n;
-    // cin>>n;
-    n=5;
+    cin>>n;
+    // n=5;
     vector<int> dp(n+1,0);
     dp[0]=1;dp[1]=1;
         for(int i=0;i<n+1;i++)
